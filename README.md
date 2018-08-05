@@ -1,22 +1,16 @@
-# Kickoff NextJs
+# Redux Example
 
-A starting point using ReactJs, bundled with awesome NextJs.
-
-Using Stackable.space and Graph.cool as API to provide data.
+Using ReactJs, with Redux dependency
 
 ## Stack
-
-- [Next.js](https://zeit.co/blog/next)
 - [React.js](https://facebook.github.io/react/)
-- [Stackable.space](http://www.stackable.space)
-- [Graph.cool](https://www.graph.cool/)
+- [Redux]
 
 ## To use
 
 - Fork or download this repo
 - Ready!
 
-If you want to use Stackable.space as API to provide data, edit `lib/config.js` file with your `STACKABLE_KEY` and container IDs.
 
 ## Setup
 
@@ -28,15 +22,9 @@ yarn install
 
 ## Development
 
-To start development server
+To start
 
 ```
-yarn run dev
-```
-
-## Deployment
-
-```
-yarn run build
 yarn start
 ```
+
